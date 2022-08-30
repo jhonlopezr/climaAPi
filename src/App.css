@@ -1,0 +1,15 @@
+.cuadroPrincipal{
+    background: linear-gradient(90deg, rgba(0,16,36,1) 5%, rgba(9,64,121,1) 35%, rgba(0,212,255,1) 100%);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.datosClima {
+    background-color: white;
+    border-radius: 2rem 4rem;
+    padding: 2rem;
+    margin-top: 2rem;
+}
